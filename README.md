@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [BrendanInc.world](BrendanInc.world)
 
-- 💬 Ask me about **React, JavaScript, Node.js, Three.js**
+- 💬 Ask me about **React, CSS, JavaScript, Node.js & Three.js**
 
 - 📫 How to reach me **dotcombrendan@gmail.com**
 
