@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, CSS, JavaScript, Node.js & Three.js**
 
-- 📫 How to reach me **dotcombrendan@gmail.com**
+- 📫 How to reach me **brendanmuhia@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/brendan-muhia/](www.linkedin.com/in/brendan-muhia/)
 
