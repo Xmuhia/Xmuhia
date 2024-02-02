@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brendan Muhia</h1>
 <h3 align="center">Dynamic MERN Fullstack Developer with a knack for crafting immersive web experiences.</h3>
 
-- 🔭 I’m currently working on [Drag and Drop Kanban Board](brendaninc.world)
+- 🔭 I’m currently working on [Drag and Drop Kanban Board](www.brendaninc.world)
 
 - 🌱 I’m currently learning **Typescript & Next.js**
 
-- 👨‍💻 All of my projects are available at [BrendanInc.world](BrendanInc.world)
+- 👨‍💻 All of my projects are available at [BrendanInc.world](www.BrendanInc.world)
 
 - 💬 Ask me about **React, CSS, JavaScript, Node.js & Three.js**
 
