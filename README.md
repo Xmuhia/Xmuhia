@@ -1,21 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brendan Muhia</h1>
-<h3 align="center">Dynamic MERN Fullstack Developer with a knack for crafting immersive web experiences.</h3>
-
-- 🔭 I’m currently working on [Drag and Drop Kanban Board](www.brendaninc.world)
-
-- 🌱 I’m currently learning **Typescript & Next.js**
-
-- 👨‍💻 All of my projects are available at [BrendanInc.world](www.BrendanInc.world)
-
-- 💬 Ask me about **React, CSS, JavaScript, Node.js & Three.js**
-
-- 📫 How to reach me **brendanmuhia@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/brendan-muhia/](www.linkedin.com/in/brendan-muhia/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/brendan-muhia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brendan-muhia" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brendan-muhia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
